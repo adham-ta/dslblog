@@ -1,8 +1,5 @@
 import { allPosts } from "@/.contentlayer/generated"
 import Link from "next/link"
-## مرحبا بكم في King Projects
-انظر إلى آخر المقالات بالأسفل 👇🏻
---------
 
 export default function Home() {
   return (
@@ -18,3 +15,6 @@ export default function Home() {
     </div>
   )
 }
+
+## مرحبا بكم في King Projects
+مرحبا
