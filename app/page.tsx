@@ -1,3 +1,6 @@
+## مرحبا بكم في King Projects
+انظر إلى اخر المقالات بالأسفل 👇🏻
+-------------------------------------------------
 import { allPosts } from "@/.contentlayer/generated"
 import Link from "next/link"
 
