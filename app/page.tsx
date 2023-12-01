@@ -15,6 +15,3 @@ export default function Home() {
     </div>
   )
 }
-
-## مرحبا بكم في King Projects
-مرحبا
